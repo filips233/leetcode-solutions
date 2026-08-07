@@ -2,6 +2,8 @@
 
 To repozytorium zawiera moje rozwiązania zadań algorytmicznych z platformy [LeetCode](https://leetcode.com/problemset/).
 
+[Mój profil LeetCode](https://leetcode.com/u/filips23/)
+
 ## Lista rozwiązanych zadań (na dzień 07.08.2026)
 
 * 'leet1.js' - Two Sum.
